@@ -1,4 +1,4 @@
-# esp32-mc-monitor
+# esp32-monitor
 
 ESP32-C3 SuperMini project that monitors a Minecraft Bedrock server and displays status on a 128x64 OLED.
 
