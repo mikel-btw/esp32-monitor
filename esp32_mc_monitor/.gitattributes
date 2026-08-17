@@ -1,0 +1,9 @@
+# Force all markdown files to appear in language stats
+*.md linguist-detectable=true
+
+
+
+docs/**   linguist-documentation
+README.md linguist-detectable=false
+LICENSE   linguist-detectable=false
+LICENSE.md linguist-detectable=false
